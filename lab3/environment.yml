@@ -1,0 +1,13 @@
+name: lab2
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.8    # Python version 3.8
+    - geopandas     # Geospatial extension of pandas
+    - matplotlib    # 2D plotting library
+    - numpy         # N-d array and numerics 
+    - pandas        # Labeled data analysis
+    - shapely       # Vector formats
+    - cenpy         # Access Census data
+    - jupyter       # Interactive notebooks
